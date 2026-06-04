@@ -1,0 +1,8 @@
+ mantener un registro de cambios en un proyecto de software es importamte por que permite conocer que modificaciones se han realizado a lo largo del teimpo.
+ herramientas como git ayudan a guardar diferentes versiones del proyecto de manera organizda.
+ esto facilita corregir herrores, y que es posible volver a una version anterior si algo falla.
+ ademas, permite que varias personas trabajen en el mismo proyecto sin perder informacion.
+ git tambien ayuda a identificar quien realizo cada cambio y cuando lo realizo.
+ gracias a esto, se mejora el control y la seguridad del desarrollo.
+ otra ventaja es que facilita la colaboracion entre equipos de trabajo.
+ en general, el uso de git contribuye a mantener los proyectos mas ordenados, eficientes y faciles de administrar.
